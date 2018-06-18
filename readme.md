@@ -3,7 +3,7 @@ Instructor: **Dr. ZHANG Kang**
 
 This course focuses on different coordinate systems and their transformations, the algorithms for basic 2D and 3D drawings, etc.
 
-## What's in the folders
+## What's inside the folder
 - `PointPoly.java` is the deliverable source code for Assignment 3.
 
 - `ass3_17Su.txt` is the requirement of Assignment 3.
