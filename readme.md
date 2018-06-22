@@ -10,7 +10,7 @@ This course focuses on different coordinate systems and their transformations, t
 
 - `pointtester.png` is the snapshot of the user interface.
 
-## Assignment 3: Point-in-Polygon Test
+## Assignment 3: Point-in-Polygon Tester
 Java / Desktop Application
 
 The program is an implementation of the principle of the Point-in-polygon test algorithm (**half-line algorithm and the even-odd rule**). It tests and demonstrates if a point P is inside or outside of a polygon. Users can draw their own polygon and point.
