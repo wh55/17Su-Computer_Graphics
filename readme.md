@@ -15,7 +15,7 @@ Java / Desktop Application
 
 The program is an implementation of the principle of the Point-in-polygon test algorithm (**half-line algorithm and the even-odd rule**). It tests and demonstrates if a point P is inside or outside of a polygon. Users can draw their own polygon and point.
 
-![Assignment3 Snapshot](pointtester.png)
+![Project Snapshot](pointtester.png)
 
 - Every mouse click point is displayed on the nearest grid point of the grid space.
 
